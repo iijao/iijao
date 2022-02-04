@@ -3,7 +3,7 @@
 <h1>Atualmente trabalho com front-end</h1>
 <div display="flex" flex-wrap="wrap">
   <h2>  Essas são as linguagens com que eu trabalho atualmente </h2>
- <img align="right" height="180em" widht="180em" src="https://im5.ezgif.com/tmp/ezgif-5-527d619867.gif"/>
+ <img align="right" height="180em" widht="180em" src="https://i.imgur.com/8berOGO.gif"/>
  <img align="center" height="30em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
  <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
