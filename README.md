@@ -1,5 +1,6 @@
 
 ### Ola! Eu sou o João
+<h1>Atualmente trabalho com front-end</h1>
 <div display="flex" flex-wrap="wrap">
   <h2>  Essas são as linguagens com que eu trabalho atualmente </h2>
  <img align="right" height="180em" widht="180em" src="https://im5.ezgif.com/tmp/ezgif-5-527d619867.gif"/>
